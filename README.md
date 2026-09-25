@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PerdangaSoftware/PerdangaSoftware/main/banner.svg" width="100%" alt="Perdanga Software Banner" />
+  <img src="https://github.com/PerdangaSoftware/PerdangaSoftware/blob/main/Perdanga-Software-Banner.png?raw=true" width="100%" alt="Perdanga Software Banner" />
 </p>
 
 # Perdanga-Software
