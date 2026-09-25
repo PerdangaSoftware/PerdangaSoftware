@@ -36,7 +36,7 @@
 ### Star History
 
 <p align="center">
-  <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&PerdangaSoftware/PerdangaSoftware&Date">
-    <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP,PerdangaSoftware/PerdangaSoftware&type=Date&theme=dark" width="600" alt="Star History Chart" />
+  <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&PerdangaSoftware/Perdanga-AllShare&PerdangaSoftware/Nova-Perdanga&Date">
+    <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP,PerdangaSoftware/Perdanga-AllShare,PerdangaSoftware/Nova-Perdanga&type=Date&theme=dark" width="600" alt="Star History Chart" />
   </a>
 </p>
