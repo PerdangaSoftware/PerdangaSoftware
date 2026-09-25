@@ -25,11 +25,11 @@
 
 ### Connect & Support
 
-* **GitLab:** [Perdanga](https://gitlab.com/perdanga)
-* **Reddit:** [RomanKojima](https://www.reddit.com/user/RomanKojima/)
-* **Music:** [Bandcamp](https://divizion.bandcamp.com/)
-* **Support:** [Boosty](https://boosty.to/divizion)
-* **Community:** [Discord Profile](https://discord.com/users/174125733994692608)
+* [GitLab](https://gitlab.com/perdanga)
+* [Discord](https://discord.com/users/174125733994692608)
+* [Reddit](https://www.reddit.com/user/RomanKojima/)
+* [Bandcamp](https://divizion.bandcamp.com/)
+* [Boosty](https://boosty.to/divizion)
 
 ---
 
