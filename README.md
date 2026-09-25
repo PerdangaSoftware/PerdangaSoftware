@@ -30,18 +30,21 @@
 
 ### Connect & Support
 
-* [GitLab](https://gitlab.com/perdanga)
-* [Discord](https://discord.com/users/174125733994692608)
-* [Reddit](https://www.reddit.com/user/RomanKojima/)
-* [Bandcamp](https://divizion.bandcamp.com/) 
-* [Boosty](https://boosty.to/divizion)
+<p align="left">
+  <a href="https://gitlab.com/perdanga">GitLab</a> • 
+  <a href="https://discord.com/users/174125733994692608">Discord</a> • 
+  <a href="https://www.reddit.com/user/RomanKojima/">Reddit</a> • 
+  <a href="https://divizion.bandcamp.com/">Bandcamp</a> • 
+  <a href="https://boosty.to/divizion">Boosty</a>
+</p>
 
 ---
 
+<div align="center">
+
 ### Star History
 
-<p align="center">
   <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&PerdangaSoftware/Perdanga-AllShare&PerdangaSoftware/Nova-Perdanga&Date">
     <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP,PerdangaSoftware/Perdanga-AllShare,PerdangaSoftware/Nova-Perdanga&type=Date&theme=dark" width="600" alt="Star History Chart" />
   </a>
-</p>
+</div>
