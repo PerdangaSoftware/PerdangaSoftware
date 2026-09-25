@@ -33,23 +33,10 @@
 
 ---
 
-### Repositories & Stars
+### Star History
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PerdangaSoftware/Perdanga11"><b>Perdanga11</b></a>
-      <br/>
-      <sub>Native C++ replacement for Windows 11 Start Menu</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/PerdangaSoftware/Perdanga11?style=for-the-badge&label=Stars&color=2ea44f&logo=github" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PerdangaSoftware/Perdanga-VSP"><b>Perdanga-VSP</b></a>
-      <br/>
-      <sub>Native C++ media player built with libmpv & D3D11</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/PerdangaSoftware/Perdanga-VSP?style=for-the-badge&label=Stars&color=2ea44f&logo=github" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&Date">
+    <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP&type=Date&theme=dark" alt="Star History Chart" />
+  </a>
+</p>
