@@ -1,17 +1,6 @@
-<table>
-  <tr>
-    <td valign="middle">
-      <h1>Perdanga-Software</h1>
-      <p>
-        Crafting custom apps and media tools<br/>
-        <b>Perdanga Forever!</b>
-      </p>
-    </td>
-    <td align="right" valign="middle" width="180">
-      <img src="https://github.com/PerdangaSoftware/PerdangaSoftware/blob/main/Perdanga-Software.png?raw=true" width="160" alt="Perdanga Software Logo" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PerdangaSoftware/PerdangaSoftware/main/header.svg" width="100%" alt="Perdanga Software Header" />
+</p>
 
 ---
 
@@ -36,10 +25,10 @@
 
 ### Connect & Support
 
-* [GitLab](https://gitlab.com/perdanga)
-* [Discord](https://discord.com/users/174125733994692608)
-* [Reddit](https://www.reddit.com/user/RomanKojima/)
-* [Bandcamp](https://divizion.bandcamp.com/)
+* [GitLab](https://gitlab.com/perdanga) 
+* [Discord](https://discord.com/users/174125733994692608) 
+* [Reddit](https://www.reddit.com/user/RomanKojima/) 
+* [Bandcamp](https://divizion.bandcamp.com/) 
 * [Boosty](https://boosty.to/divizion)
 
 ---
