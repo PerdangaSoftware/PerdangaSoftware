@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://github.com/PerdangaSoftware/PerdangaSoftware/blob/main/Perdanga-Software.png?raw=true" alt="Perdanga Software Banner" width="100%" />
-</p>
-
-# Perdanga-Software
-
-> Crafting custom apps and media tools  
-> **Perdanga Forever!**
+<table>
+  <tr>
+    <td valign="middle">
+      <h1>Perdanga-Software</h1>
+      <p>
+        Crafting custom apps and media tools<br/>
+        <b>Perdanga Forever!</b>
+      </p>
+    </td>
+    <td align="right" valign="middle" width="180">
+      <img src="https://github.com/PerdangaSoftware/PerdangaSoftware/blob/main/Perdanga-Software.png?raw=true" width="160" alt="Perdanga Software Logo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
