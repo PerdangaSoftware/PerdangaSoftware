@@ -33,12 +33,10 @@
 
 ---
 
-### GitHub Overview
+### Popular Repositories
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PerdangaSoftware&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+* **[Perdanga11](https://github.com/PerdangaSoftware/Perdanga11)** ![Perdanga11 Stars](https://img.shields.io/github/stars/PerdangaSoftware/Perdanga11?style=flat&color=2ea44f)
+  Native C++ replacement for the Windows 11 Start Menu with custom tabs and multi file search.
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/PerdangaSoftware" alt="GitHub Contribution Graph" />
-</p>
+* **[Perdanga-VSP](https://github.com/PerdangaSoftware/Perdanga-VSP)** ![Perdanga-VSP Stars](https://img.shields.io/github/stars/PerdangaSoftware/Perdanga-VSP?style=flat&color=2ea44f)
+  Native C++ media player built with libmpv and D3D11 hardware rendering.
