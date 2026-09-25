@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PerdangaSoftware/PerdangaSoftware/blob/main/Perdanga-Software.png?raw=true" height="160" alt="Perdanga Software" />
+  <img src="https://raw.githubusercontent.com/PerdangaSoftware/PerdangaSoftware/main/banner.svg" width="100%" alt="Perdanga Software Banner" />
 </p>
 
 # Perdanga-Software
@@ -33,7 +33,7 @@
 * [GitLab](https://gitlab.com/perdanga)
 * [Discord](https://discord.com/users/174125733994692608)
 * [Reddit](https://www.reddit.com/user/RomanKojima/)
-* [Bandcamp](https://divizion.bandcamp.com/)
+* [Bandcamp](https://divizion.bandcamp.com/) 
 * [Boosty](https://boosty.to/divizion)
 
 ---
