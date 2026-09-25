@@ -42,7 +42,6 @@
 
 <div align="center">
 
-### Star History
 
   <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&PerdangaSoftware/Perdanga-AllShare&PerdangaSoftware/Nova-Perdanga&Date">
     <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP,PerdangaSoftware/Perdanga-AllShare,PerdangaSoftware/Nova-Perdanga&type=Date&theme=dark" width="600" alt="Star History Chart" />
