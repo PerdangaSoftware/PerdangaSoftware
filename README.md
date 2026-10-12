@@ -38,11 +38,13 @@
   </tr>
 </table>
 
-<p align="center">
+<details>
+  <summary><b>Preview Screenshot</b></summary>
+  <br/>
   <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
     <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/PSS.png?ref_type=heads" width="600" alt="Perdanga Software Solutions Screenshot" />
   </a>
-</p>
+</details>
 
 ---
 
