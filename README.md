@@ -9,7 +9,7 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <table>
   <tr>
@@ -21,6 +21,18 @@
     <td valign="middle">
       <a href="https://perdanga-vsp.vercel.app/" target="_blank">
         <b>Perdanga VSP — Native C++ Media Player</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
+        <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/PSS.png?ref_type=heads" width="70" alt="Perdanga Software Solutions Screenshot" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
+        <b>Perdanga Software Solutions — All-in-one Windows PowerShell Toolkit</b>
       </a>
     </td>
   </tr>
@@ -41,8 +53,6 @@
 ---
 
 <div align="center">
-
-
   <a href="https://star-history.com/#PerdangaSoftware/Perdanga11&PerdangaSoftware/Perdanga-VSP&PerdangaSoftware/Perdanga-AllShare&PerdangaSoftware/Nova-Perdanga&Date">
     <img src="https://api.star-history.com/svg?repos=PerdangaSoftware/Perdanga11,PerdangaSoftware/Perdanga-VSP,PerdangaSoftware/Perdanga-AllShare,PerdangaSoftware/Nova-Perdanga&type=Date&theme=dark" width="600" alt="Star History Chart" />
   </a>
