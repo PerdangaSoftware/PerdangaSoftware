@@ -9,42 +9,22 @@
 
 ---
 
-### Featured Projects
+### Featured Project
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="56">
-      <a href="https://perdanga-vsp.vercel.app/" target="_blank">
-        <img src="https://gitlab.com/perdanga/perdanga-vsp/-/raw/main/ui/ico/GreenOrange.ico?ref_type=heads" width="48" height="48" alt="Perdanga VSP Logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://perdanga-vsp.vercel.app/" target="_blank">
-        <b>Perdanga VSP — Native C++ Media Player</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="56">
+    <td align="center" valign="middle">
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="42" height="42" alt="PowerShell Icon" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell Icon" />
       </a>
     </td>
     <td valign="middle">
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <b>Perdanga Software Solutions — All-in-one Windows PowerShell Toolkit</b>
+        <b>Perdanga Software Solutions - All-in-one Windows PowerShell Toolkit</b>
       </a>
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>Preview Screenshot</b></summary>
-  <br/>
-  <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-    <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/PSS.png?ref_type=heads" width="600" alt="Perdanga Software Solutions Screenshot" />
-  </a>
-</details>
 
 ---
 
