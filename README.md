@@ -13,27 +13,27 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
+      <br/>
       <a href="https://perdanga-vsp.vercel.app/" target="_blank">
-        <img src="https://gitlab.com/perdanga/perdanga-vsp/-/raw/main/ui/ico/GreenOrange.ico?ref_type=heads" width="48" height="48" alt="Perdanga VSP Logo" />
+        <img src="https://gitlab.com/perdanga/perdanga-vsp/-/raw/main/ui/ico/GreenOrange.ico?ref_type=heads" width="96" height="96" alt="Perdanga VSP" />
       </a>
-    </td>
-    <td valign="middle">
+      <br/><br/>
       <a href="https://perdanga-vsp.vercel.app/" target="_blank">
-        <b>Perdanga VSP — Native C++ Media Player</b>
+        <b>Perdanga VSP</b>
       </a>
+      <p>Native C++ Media Player</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
+      <br/>
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/PSS.png?ref_type=heads" width="70" alt="Perdanga Software Solutions Screenshot" />
+        <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/PSS.png?ref_type=heads" width="100%" alt="Perdanga Software Solutions" />
       </a>
-    </td>
-    <td valign="middle">
+      <br/><br/>
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <b>Perdanga Software Solutions — All-in-one Windows PowerShell Toolkit</b>
+        <b>Perdanga Software Solutions</b>
       </a>
+      <p>All-in-one Windows PowerShell Toolkit</p>
     </td>
   </tr>
 </table>
