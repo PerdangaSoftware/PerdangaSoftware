@@ -15,12 +15,12 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell Icon" />
+        <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/ico/pss.ico?ref_type=heads" width="48" height="48" alt="Perdanga Software Solutions Logo" />
       </a>
     </td>
     <td valign="middle">
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <b>Perdanga Software Solutions - All-in-one Windows PowerShell Toolkit</b>
+        <b>Perdanga Software Solutions - All-in-one PowerShell Toolkit</b>
       </a>
     </td>
   </tr>
