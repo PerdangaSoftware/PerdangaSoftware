@@ -4,8 +4,7 @@
 
 # Perdanga-Software
 
-> Crafting custom apps and media tools  
-> **Perdanga Forever!**
+> Perdanga Forever!
 
 ---
 
