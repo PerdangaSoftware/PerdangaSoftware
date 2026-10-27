@@ -14,7 +14,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
-        <img src="https://gitlab.com/perdanga/perdanga-software-solutions/-/raw/main/Screenshots/ico/pss.ico?ref_type=heads" width="48" height="48" alt="Perdanga Software Solutions Logo" />
+        <img src="https://raw.githubusercontent.com/PerdangaSoftware/PerdangaSoftware/refs/heads/main/pss.ico" width="48" height="48" alt="Perdanga Software Solutions Logo" />
       </a>
     </td>
     <td valign="middle">
