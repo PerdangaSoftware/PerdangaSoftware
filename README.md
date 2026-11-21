@@ -33,7 +33,6 @@
   <a href="https://gitlab.com/perdanga">GitLab</a> • 
   <a href="https://discord.com/users/174125733994692608">Discord</a> • 
   <a href="https://www.reddit.com/user/RomanKojima/">Reddit</a> • 
-  <a href="https://divizion.bandcamp.com/">Bandcamp</a> • 
   <a href="https://boosty.to/divizion">Boosty</a>
 </p>
 
