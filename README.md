@@ -18,7 +18,7 @@
       </a>
     </td>
     <td valign="middle">
-      <a href="https://gitlab.com/perdanga/perdanga-software-solutions" target="_blank">
+      <a href="https://perdanga-software-git.duckdns.org/perdanger/PSS" target="_blank">
         <b>Perdanga Software Solutions - All-in-one PowerShell Toolkit</b>
       </a>
     </td>
